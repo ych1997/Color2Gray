@@ -22,7 +22,7 @@ Color2gray希望灰階圖片可以保留住原圖的差異性，因此參考了�
 
 ### 結果3：
 
-原圖中的色彩亮度都很相近，因此原圖中綠色條紋特徵，再經過photoshop轉成灰階圖後，完全看不到，
+原圖中的色彩亮度都很相近，因此原圖中綠色條紋特徵，再經過photoshop轉成灰階圖後，完全看不到
 ，透過Color2Gray，則能夠保存綠色條紋的特徵。
 
 <img align="center" src="https://github.com/ych1997/Color2Gray/blob/main/result/圖片%204.png" width="500">  
